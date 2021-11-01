@@ -1,0 +1,8 @@
+idact
+  -> nat = natation course
+go
+  -> epr = rankings
+  -> sta = statistiques
+
+idopt
+  -> sai = par saison

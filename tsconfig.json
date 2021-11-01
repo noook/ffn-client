@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2020",
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./lib/esm",
+    "typeRoots": ["./node_modules/@types", "types"],
+    "lib": [
+      "ESNext",
+      "DOM",
+      "ES2018.Promise",
+      "ES2015.Iterable"
+    ]
+  },
+  "include": [
+    "./src/main.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "watchOptions": {
+    "watchFile": "useFsEvents",
+    "watchDirectory": "useFsEvents",
+    "fallbackPolling": "dynamicPriority"
+  }
+}
