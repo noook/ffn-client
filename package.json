@@ -1,6 +1,6 @@
 {
   "name": "ffn-client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A wrapper for the french swimming federation to query the website through an API",
   "author": {
     "email": "me@neilrichter.com",
