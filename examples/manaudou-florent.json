@@ -1,0 +1,2069 @@
+{
+  "swimmer": {
+    "id": "158014",
+    "firstname": "Florent",
+    "lastname": "MANAUDOU",
+    "nat": "FRA",
+    "birthyear": 1990
+  },
+  "races": {
+    "shortCourses": [
+      {
+        "name": "50 NL",
+        "raceId": 51,
+        "time": {
+          "display": "00:20.26",
+          "minutes": 0,
+          "seconds": 20,
+          "hundredths": 26
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1489,
+        "poolLength": 25,
+        "location": {
+          "country": "QAT",
+          "city": "DOHA"
+        },
+        "date": "2014-12-04T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 NL",
+        "raceId": 52,
+        "time": {
+          "display": "00:45.04",
+          "minutes": 0,
+          "seconds": 45,
+          "hundredths": 4
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:21.59",
+              "minutes": 0,
+              "seconds": 21,
+              "hundredths": 59
+            },
+            "lap": {
+              "display": "00:21.59",
+              "minutes": 0,
+              "seconds": 21,
+              "hundredths": 59
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:45.04",
+              "minutes": 0,
+              "seconds": 45,
+              "hundredths": 4
+            },
+            "lap": {
+              "display": "00:23.45",
+              "minutes": 0,
+              "seconds": 23,
+              "hundredths": 45
+            },
+            "relay": "00:45.04"
+          }
+        ],
+        "age": 24,
+        "points": 1482,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "DIJON"
+        },
+        "date": "2013-12-06T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "200 NL",
+        "raceId": 53,
+        "time": {
+          "display": "01:54.84",
+          "minutes": 1,
+          "seconds": 54,
+          "hundredths": 84
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:27.15",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 15
+            },
+            "lap": {
+              "display": "00:27.15",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 15
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:56.94",
+              "minutes": 0,
+              "seconds": 56,
+              "hundredths": 94
+            },
+            "lap": {
+              "display": "00:29.79",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 79
+            },
+            "relay": "00:56.94"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:26.51",
+              "minutes": 1,
+              "seconds": 26,
+              "hundredths": 51
+            },
+            "lap": {
+              "display": "00:29.57",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 57
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "01:54.84",
+              "minutes": 1,
+              "seconds": 54,
+              "hundredths": 84
+            },
+            "lap": {
+              "display": "00:28.33",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 33
+            },
+            "relay": "00:57.90"
+          }
+        ],
+        "age": 20,
+        "points": 1210,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "OYONNAX"
+        },
+        "date": "2009-10-11T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "400 NL",
+        "raceId": 54,
+        "time": {
+          "display": "03:54.92",
+          "minutes": 3,
+          "seconds": 54,
+          "hundredths": 92
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:26.66",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 66
+            },
+            "lap": {
+              "display": "00:26.66",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 66
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:56.21",
+              "minutes": 0,
+              "seconds": 56,
+              "hundredths": 21
+            },
+            "lap": {
+              "display": "00:29.55",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 55
+            },
+            "relay": "00:56.21"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:26.17",
+              "minutes": 1,
+              "seconds": 26,
+              "hundredths": 17
+            },
+            "lap": {
+              "display": "00:29.96",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 96
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "01:56.48",
+              "minutes": 1,
+              "seconds": 56,
+              "hundredths": 48
+            },
+            "lap": {
+              "display": "00:30.31",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 31
+            },
+            "relay": "01:00.27"
+          },
+          {
+            "distance": 250,
+            "split": {
+              "display": "02:26.23",
+              "minutes": 2,
+              "seconds": 26,
+              "hundredths": 23
+            },
+            "lap": {
+              "display": "00:29.75",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 75
+            }
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "02:56.02",
+              "minutes": 2,
+              "seconds": 56,
+              "hundredths": 2
+            },
+            "lap": {
+              "display": "00:29.79",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 79
+            },
+            "relay": "00:59.54"
+          },
+          {
+            "distance": 350,
+            "split": {
+              "display": "03:25.96",
+              "minutes": 3,
+              "seconds": 25,
+              "hundredths": 96
+            },
+            "lap": {
+              "display": "00:29.94",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 94
+            }
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "03:54.92",
+              "minutes": 3,
+              "seconds": 54,
+              "hundredths": 92
+            },
+            "lap": {
+              "display": "00:28.96",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 96
+            },
+            "relay": "00:58.90"
+          }
+        ],
+        "age": 22,
+        "points": 1292,
+        "poolLength": 25,
+        "location": {
+          "country": "ITA",
+          "city": "GÊNES"
+        },
+        "date": "2011-11-01T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "800 NL",
+        "raceId": 55,
+        "time": {
+          "display": "09:09.57",
+          "minutes": 9,
+          "seconds": 9,
+          "hundredths": 57
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:01.84",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 84
+            },
+            "lap": {
+              "display": "01:01.84",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 84
+            },
+            "relay": "01:01.84"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:10.22",
+              "minutes": 2,
+              "seconds": 10,
+              "hundredths": 22
+            },
+            "lap": {
+              "display": "01:08.38",
+              "minutes": 1,
+              "seconds": 8,
+              "hundredths": 38
+            },
+            "relay": "01:08.38"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:20.86",
+              "minutes": 3,
+              "seconds": 20,
+              "hundredths": 86
+            },
+            "lap": {
+              "display": "01:10.64",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 64
+            },
+            "relay": "01:10.64"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:32.75",
+              "minutes": 4,
+              "seconds": 32,
+              "hundredths": 75
+            },
+            "lap": {
+              "display": "01:11.89",
+              "minutes": 1,
+              "seconds": 11,
+              "hundredths": 89
+            },
+            "relay": "01:11.89"
+          },
+          {
+            "distance": 500,
+            "split": {
+              "display": "05:44.06",
+              "minutes": 5,
+              "seconds": 44,
+              "hundredths": 6
+            },
+            "lap": {
+              "display": "01:11.31",
+              "minutes": 1,
+              "seconds": 11,
+              "hundredths": 31
+            },
+            "relay": "01:11.31"
+          },
+          {
+            "distance": 600,
+            "split": {
+              "display": "06:54.73",
+              "minutes": 6,
+              "seconds": 54,
+              "hundredths": 73
+            },
+            "lap": {
+              "display": "01:10.67",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 67
+            },
+            "relay": "01:10.67"
+          },
+          {
+            "distance": 700,
+            "split": {
+              "display": "08:05.01",
+              "minutes": 8,
+              "seconds": 5,
+              "hundredths": 1
+            },
+            "lap": {
+              "display": "01:10.28",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 28
+            },
+            "relay": "01:10.28"
+          },
+          {
+            "distance": 800,
+            "split": {
+              "display": "09:09.57",
+              "minutes": 9,
+              "seconds": 9,
+              "hundredths": 57
+            },
+            "lap": {
+              "display": "01:04.56",
+              "minutes": 1,
+              "seconds": 4,
+              "hundredths": 56
+            },
+            "relay": "01:04.56"
+          }
+        ],
+        "age": 21,
+        "points": 1033,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "AMBÉRIEU-EN-BUGEY"
+        },
+        "date": "2010-10-10T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "1500 NL",
+        "raceId": 56,
+        "time": {
+          "display": "17:16.84",
+          "minutes": 17,
+          "seconds": 16,
+          "hundredths": 84
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:00.87",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 87
+            },
+            "lap": {
+              "display": "01:00.87",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 87
+            },
+            "relay": "01:00.87"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:07.80",
+              "minutes": 2,
+              "seconds": 7,
+              "hundredths": 80
+            },
+            "lap": {
+              "display": "01:06.93",
+              "minutes": 1,
+              "seconds": 6,
+              "hundredths": 93
+            },
+            "relay": "01:06.93"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:15.52",
+              "minutes": 3,
+              "seconds": 15,
+              "hundredths": 52
+            },
+            "lap": {
+              "display": "01:07.72",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 72
+            },
+            "relay": "01:07.72"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:22.96",
+              "minutes": 4,
+              "seconds": 22,
+              "hundredths": 96
+            },
+            "lap": {
+              "display": "01:07.44",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 44
+            },
+            "relay": "01:07.44"
+          },
+          {
+            "distance": 500,
+            "split": {
+              "display": "05:30.62",
+              "minutes": 5,
+              "seconds": 30,
+              "hundredths": 62
+            },
+            "lap": {
+              "display": "01:07.66",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 66
+            },
+            "relay": "01:07.66"
+          },
+          {
+            "distance": 600,
+            "split": {
+              "display": "06:38.60",
+              "minutes": 6,
+              "seconds": 38,
+              "hundredths": 60
+            },
+            "lap": {
+              "display": "01:07.98",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 98
+            },
+            "relay": "01:07.98"
+          },
+          {
+            "distance": 700,
+            "split": {
+              "display": "07:49.14",
+              "minutes": 7,
+              "seconds": 49,
+              "hundredths": 14
+            },
+            "lap": {
+              "display": "01:10.54",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 54
+            },
+            "relay": "01:10.54"
+          },
+          {
+            "distance": 800,
+            "split": {
+              "display": "09:01.14",
+              "minutes": 9,
+              "seconds": 1,
+              "hundredths": 14
+            },
+            "lap": {
+              "display": "01:12.00",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 0
+            },
+            "relay": "01:12.00"
+          },
+          {
+            "distance": 900,
+            "split": {
+              "display": "10:13.85",
+              "minutes": 10,
+              "seconds": 13,
+              "hundredths": 85
+            },
+            "lap": {
+              "display": "01:12.71",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 71
+            },
+            "relay": "01:12.71"
+          },
+          {
+            "distance": 1000,
+            "split": {
+              "display": "11:26.29",
+              "minutes": 11,
+              "seconds": 26,
+              "hundredths": 29
+            },
+            "lap": {
+              "display": "01:12.44",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 44
+            },
+            "relay": "01:12.44"
+          },
+          {
+            "distance": 1100,
+            "split": {
+              "display": "12:38.77",
+              "minutes": 12,
+              "seconds": 38,
+              "hundredths": 77
+            },
+            "lap": {
+              "display": "01:12.48",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 48
+            },
+            "relay": "01:12.48"
+          },
+          {
+            "distance": 1200,
+            "split": {
+              "display": "13:50.80",
+              "minutes": 13,
+              "seconds": 50,
+              "hundredths": 80
+            },
+            "lap": {
+              "display": "01:12.03",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 3
+            },
+            "relay": "01:12.03"
+          },
+          {
+            "distance": 1300,
+            "split": {
+              "display": "14:59.31",
+              "minutes": 14,
+              "seconds": 59,
+              "hundredths": 31
+            },
+            "lap": {
+              "display": "01:08.51",
+              "minutes": 1,
+              "seconds": 8,
+              "hundredths": 51
+            },
+            "relay": "01:08.51"
+          },
+          {
+            "distance": 1400,
+            "split": {
+              "display": "16:07.93",
+              "minutes": 16,
+              "seconds": 7,
+              "hundredths": 93
+            },
+            "lap": {
+              "display": "01:08.62",
+              "minutes": 1,
+              "seconds": 8,
+              "hundredths": 62
+            },
+            "relay": "01:08.62"
+          },
+          {
+            "distance": 1500,
+            "split": {
+              "display": "17:16.84",
+              "minutes": 17,
+              "seconds": 16,
+              "hundredths": 84
+            },
+            "lap": {
+              "display": "01:08.91",
+              "minutes": 1,
+              "seconds": 8,
+              "hundredths": 91
+            },
+            "relay": "01:08.91"
+          }
+        ],
+        "age": 18,
+        "points": 1062,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "AMBÉRIEU-EN-BUGEY"
+        },
+        "date": "2007-12-02T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "50 Dos",
+        "raceId": 61,
+        "time": {
+          "display": "00:22.22",
+          "minutes": 0,
+          "seconds": 22,
+          "hundredths": 22
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1500,
+        "poolLength": 25,
+        "location": {
+          "country": "QAT",
+          "city": "DOHA"
+        },
+        "date": "2014-12-06T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Dos",
+        "raceId": 62,
+        "time": {
+          "display": "00:50.35",
+          "minutes": 0,
+          "seconds": 50,
+          "hundredths": 35
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:24.40",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 40
+            },
+            "lap": {
+              "display": "00:24.40",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 40
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:50.35",
+              "minutes": 0,
+              "seconds": 50,
+              "hundredths": 35
+            },
+            "lap": {
+              "display": "00:25.95",
+              "minutes": 0,
+              "seconds": 25,
+              "hundredths": 95
+            },
+            "relay": "00:50.35"
+          }
+        ],
+        "age": 25,
+        "points": 1497,
+        "poolLength": 25,
+        "location": {
+          "country": "QAT",
+          "city": "DOHA"
+        },
+        "date": "2014-12-07T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "200 Dos",
+        "raceId": 63,
+        "time": {
+          "display": "01:59.61",
+          "minutes": 1,
+          "seconds": 59,
+          "hundredths": 61
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:27.85",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 85
+            },
+            "lap": {
+              "display": "00:27.85",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 85
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:58.04",
+              "minutes": 0,
+              "seconds": 58,
+              "hundredths": 4
+            },
+            "lap": {
+              "display": "00:30.19",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 19
+            },
+            "relay": "00:58.04"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:29.17",
+              "minutes": 1,
+              "seconds": 29,
+              "hundredths": 17
+            },
+            "lap": {
+              "display": "00:31.13",
+              "minutes": 0,
+              "seconds": 31,
+              "hundredths": 13
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "01:59.61",
+              "minutes": 1,
+              "seconds": 59,
+              "hundredths": 61
+            },
+            "lap": {
+              "display": "00:30.44",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 44
+            },
+            "relay": "01:01.57"
+          }
+        ],
+        "age": 18,
+        "points": 1346,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "NîMES"
+        },
+        "date": "2007-12-07T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "50 Bra.",
+        "raceId": 71,
+        "time": {
+          "display": "00:26.11",
+          "minutes": 0,
+          "seconds": 26,
+          "hundredths": 11
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1461,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "MONTPELLIER"
+        },
+        "date": "2014-11-22T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Bra.",
+        "raceId": 72,
+        "time": {
+          "display": "01:00.82",
+          "minutes": 1,
+          "seconds": 0,
+          "hundredths": 82
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:28.72",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 72
+            },
+            "lap": {
+              "display": "00:28.72",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 72
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:00.82",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 82
+            },
+            "lap": {
+              "display": "00:32.10",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 10
+            },
+            "relay": "01:00.82"
+          }
+        ],
+        "age": 24,
+        "points": 1345,
+        "poolLength": 25,
+        "location": {
+          "country": "QAT",
+          "city": "DOHA"
+        },
+        "date": "2013-10-21T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "50 Pap.",
+        "raceId": 81,
+        "time": {
+          "display": "00:22.09",
+          "minutes": 0,
+          "seconds": 22,
+          "hundredths": 9
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1472,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "MONTPELLIER"
+        },
+        "date": "2014-11-23T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Pap.",
+        "raceId": 82,
+        "time": {
+          "display": "00:50.95",
+          "minutes": 0,
+          "seconds": 50,
+          "hundredths": 95
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:23.39",
+              "minutes": 0,
+              "seconds": 23,
+              "hundredths": 39
+            },
+            "lap": {
+              "display": "00:23.39",
+              "minutes": 0,
+              "seconds": 23,
+              "hundredths": 39
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:50.95",
+              "minutes": 0,
+              "seconds": 50,
+              "hundredths": 95
+            },
+            "lap": {
+              "display": "00:27.56",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 56
+            },
+            "relay": "00:50.95"
+          }
+        ],
+        "age": 24,
+        "points": 1405,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "COMPIÈGNE"
+        },
+        "date": "2013-11-24T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "200 Pap.",
+        "raceId": 83,
+        "time": {
+          "display": "02:21.47",
+          "minutes": 2,
+          "seconds": 21,
+          "hundredths": 47
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:30.86",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 86
+            },
+            "lap": {
+              "display": "00:30.86",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 86
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:07.69",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 69
+            },
+            "lap": {
+              "display": "00:36.83",
+              "minutes": 0,
+              "seconds": 36,
+              "hundredths": 83
+            },
+            "relay": "01:07.69"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:21.47",
+              "minutes": 2,
+              "seconds": 21,
+              "hundredths": 47
+            },
+            "lap": {
+              "display": "01:13.78",
+              "minutes": 1,
+              "seconds": 13,
+              "hundredths": 78
+            },
+            "relay": "01:13.78"
+          }
+        ],
+        "age": 16,
+        "points": 995,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "OYONNAX"
+        },
+        "date": "2005-12-18T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "100 4 N.",
+        "raceId": 90,
+        "time": {
+          "display": "00:50.96",
+          "minutes": 0,
+          "seconds": 50,
+          "hundredths": 96
+        },
+        "laps": [],
+        "age": 24,
+        "points": 1500,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "DIJON"
+        },
+        "date": "2013-12-07T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "200 4 N.",
+        "raceId": 91,
+        "time": {
+          "display": "02:04.09",
+          "minutes": 2,
+          "seconds": 4,
+          "hundredths": 9
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:25.93",
+              "minutes": 0,
+              "seconds": 25,
+              "hundredths": 93
+            },
+            "lap": {
+              "display": "00:25.93",
+              "minutes": 0,
+              "seconds": 25,
+              "hundredths": 93
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:56.55",
+              "minutes": 0,
+              "seconds": 56,
+              "hundredths": 55
+            },
+            "lap": {
+              "display": "00:30.62",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 62
+            },
+            "relay": "00:56.55"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:34.57",
+              "minutes": 1,
+              "seconds": 34,
+              "hundredths": 57
+            },
+            "lap": {
+              "display": "00:38.02",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 2
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:04.09",
+              "minutes": 2,
+              "seconds": 4,
+              "hundredths": 9
+            },
+            "lap": {
+              "display": "00:29.52",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 52
+            },
+            "relay": "01:07.54"
+          }
+        ],
+        "age": 20,
+        "points": 1299,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "AMBÉRIEU-EN-BUGEY"
+        },
+        "date": "2009-11-14T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "400 4 N.",
+        "raceId": 92,
+        "time": {
+          "display": "04:43.52",
+          "minutes": 4,
+          "seconds": 43,
+          "hundredths": 52
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:27.76",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 76
+            },
+            "lap": {
+              "display": "00:27.76",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 76
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:01.10",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 10
+            },
+            "lap": {
+              "display": "00:33.34",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 34
+            },
+            "relay": "01:01.10"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:43.52",
+              "minutes": 4,
+              "seconds": 43,
+              "hundredths": 52
+            },
+            "lap": {
+              "display": "03:42.42",
+              "minutes": 3,
+              "seconds": 42,
+              "hundredths": 42
+            },
+            "relay": "03:42.42"
+          }
+        ],
+        "age": 18,
+        "points": 1131,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "AMBÉRIEU-EN-BUGEY"
+        },
+        "date": "2007-12-01T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      }
+    ],
+    "longCourses": [
+      {
+        "name": "50 NL",
+        "raceId": 51,
+        "time": {
+          "display": "00:21.19",
+          "minutes": 0,
+          "seconds": 21,
+          "hundredths": 19
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1414,
+        "poolLength": 50,
+        "location": {
+          "country": "RUS",
+          "city": "KAZAN"
+        },
+        "date": "2015-08-08T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 NL",
+        "raceId": 52,
+        "time": {
+          "display": "00:47.98",
+          "minutes": 0,
+          "seconds": 47,
+          "hundredths": 98
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:22.79",
+              "minutes": 0,
+              "seconds": 22,
+              "hundredths": 79
+            },
+            "lap": {
+              "display": "00:22.79",
+              "minutes": 0,
+              "seconds": 22,
+              "hundredths": 79
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:47.98",
+              "minutes": 0,
+              "seconds": 47,
+              "hundredths": 98
+            },
+            "lap": {
+              "display": "00:25.19",
+              "minutes": 0,
+              "seconds": 25,
+              "hundredths": 19
+            },
+            "relay": "00:47.98"
+          }
+        ],
+        "age": 26,
+        "points": 1370,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "NîMES"
+        },
+        "date": "2015-12-19T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "200 NL",
+        "raceId": 53,
+        "time": {
+          "display": "01:51.34",
+          "minutes": 1,
+          "seconds": 51,
+          "hundredths": 34
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:24.64",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 64
+            },
+            "lap": {
+              "display": "00:24.64",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 64
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:52.50",
+              "minutes": 0,
+              "seconds": 52,
+              "hundredths": 50
+            },
+            "lap": {
+              "display": "00:27.86",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 86
+            },
+            "relay": "00:52.50"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:21.97",
+              "minutes": 1,
+              "seconds": 21,
+              "hundredths": 97
+            },
+            "lap": {
+              "display": "00:29.47",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 47
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "01:51.34",
+              "minutes": 1,
+              "seconds": 51,
+              "hundredths": 34
+            },
+            "lap": {
+              "display": "00:29.37",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 37
+            },
+            "relay": "00:58.84"
+          }
+        ],
+        "age": 23,
+        "points": 1273,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "MARSEILLE"
+        },
+        "date": "2013-05-25T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "400 NL",
+        "raceId": 54,
+        "time": {
+          "display": "04:07.72",
+          "minutes": 4,
+          "seconds": 7,
+          "hundredths": 72
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:00.40",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 40
+            },
+            "lap": {
+              "display": "01:00.40",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 40
+            },
+            "relay": "01:00.40"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:04.41",
+              "minutes": 2,
+              "seconds": 4,
+              "hundredths": 41
+            },
+            "lap": {
+              "display": "01:04.01",
+              "minutes": 1,
+              "seconds": 4,
+              "hundredths": 1
+            },
+            "relay": "01:04.01"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:06.88",
+              "minutes": 3,
+              "seconds": 6,
+              "hundredths": 88
+            },
+            "lap": {
+              "display": "01:02.47",
+              "minutes": 1,
+              "seconds": 2,
+              "hundredths": 47
+            },
+            "relay": "01:02.47"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:07.72",
+              "minutes": 4,
+              "seconds": 7,
+              "hundredths": 72
+            },
+            "lap": {
+              "display": "01:00.84",
+              "minutes": 1,
+              "seconds": 0,
+              "hundredths": 84
+            },
+            "relay": "01:00.84"
+          }
+        ],
+        "age": 19,
+        "points": 1179,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "FEURS"
+        },
+        "date": "2009-06-27T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "800 NL",
+        "raceId": 55,
+        "time": {
+          "display": "09:21.73",
+          "minutes": 9,
+          "seconds": 21,
+          "hundredths": 73
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:04.70",
+              "minutes": 1,
+              "seconds": 4,
+              "hundredths": 70
+            },
+            "lap": {
+              "display": "01:04.70",
+              "minutes": 1,
+              "seconds": 4,
+              "hundredths": 70
+            },
+            "relay": "01:04.70"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:16.29",
+              "minutes": 2,
+              "seconds": 16,
+              "hundredths": 29
+            },
+            "lap": {
+              "display": "01:11.59",
+              "minutes": 1,
+              "seconds": 11,
+              "hundredths": 59
+            },
+            "relay": "01:11.59"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:38.76",
+              "minutes": 4,
+              "seconds": 38,
+              "hundredths": 76
+            },
+            "lap": {
+              "display": "02:22.47",
+              "minutes": 2,
+              "seconds": 22,
+              "hundredths": 47
+            },
+            "relay": "02:22.47"
+          },
+          {
+            "distance": 800,
+            "split": {
+              "display": "09:21.73",
+              "minutes": 9,
+              "seconds": 21,
+              "hundredths": 73
+            },
+            "lap": {
+              "display": "04:42.97",
+              "minutes": 4,
+              "seconds": 42,
+              "hundredths": 97
+            },
+            "relay": "04:42.97"
+          }
+        ],
+        "age": 19,
+        "points": 985,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "OYONNAX"
+        },
+        "date": "2009-05-09T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "50 Dos",
+        "raceId": 61,
+        "time": {
+          "display": "00:24.77",
+          "minutes": 0,
+          "seconds": 24,
+          "hundredths": 77
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1431,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "LIMOGES"
+        },
+        "date": "2015-04-02T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Dos",
+        "raceId": 62,
+        "time": {
+          "display": "00:55.35",
+          "minutes": 0,
+          "seconds": 55,
+          "hundredths": 35
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:26.79",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 79
+            },
+            "lap": {
+              "display": "00:26.79",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 79
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:55.35",
+              "minutes": 0,
+              "seconds": 55,
+              "hundredths": 35
+            },
+            "lap": {
+              "display": "00:28.56",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 56
+            },
+            "relay": "00:55.35"
+          }
+        ],
+        "age": 19,
+        "points": 1333,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "CHALON-SUR-SAÔNE"
+        },
+        "date": "2009-05-24T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "200 Dos",
+        "raceId": 63,
+        "time": {
+          "display": "02:08.07",
+          "minutes": 2,
+          "seconds": 8,
+          "hundredths": 7
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:01.91",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 91
+            },
+            "lap": {
+              "display": "01:01.91",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 91
+            },
+            "relay": "01:01.91"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:08.07",
+              "minutes": 2,
+              "seconds": 8,
+              "hundredths": 7
+            },
+            "lap": {
+              "display": "01:06.16",
+              "minutes": 1,
+              "seconds": 6,
+              "hundredths": 16
+            },
+            "relay": "01:06.16"
+          }
+        ],
+        "age": 19,
+        "points": 1214,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "BRON"
+        },
+        "date": "2009-03-07T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "50 Bra.",
+        "raceId": 71,
+        "time": {
+          "display": "00:27.66",
+          "minutes": 0,
+          "seconds": 27,
+          "hundredths": 66
+        },
+        "laps": [],
+        "age": 24,
+        "points": 1366,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "CHARTRES"
+        },
+        "date": "2014-04-13T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Bra.",
+        "raceId": 72,
+        "time": {
+          "display": "01:07.31",
+          "minutes": 1,
+          "seconds": 7,
+          "hundredths": 31
+        },
+        "laps": [],
+        "age": 20,
+        "points": 1162,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "OYONNAX"
+        },
+        "date": "2010-05-09T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "200 Bra.",
+        "raceId": 73,
+        "time": {
+          "display": "02:31.40",
+          "minutes": 2,
+          "seconds": 31,
+          "hundredths": 40
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:13.89",
+              "minutes": 1,
+              "seconds": 13,
+              "hundredths": 89
+            },
+            "lap": {
+              "display": "01:13.89",
+              "minutes": 1,
+              "seconds": 13,
+              "hundredths": 89
+            },
+            "relay": "01:13.89"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:31.40",
+              "minutes": 2,
+              "seconds": 31,
+              "hundredths": 40
+            },
+            "lap": {
+              "display": "01:17.51",
+              "minutes": 1,
+              "seconds": 17,
+              "hundredths": 51
+            },
+            "relay": "01:17.51"
+          }
+        ],
+        "age": 17,
+        "points": 1069,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SAINT-ROMAIN-EN-GAL"
+        },
+        "date": "2007-06-30T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "50 Pap.",
+        "raceId": 81,
+        "time": {
+          "display": "00:22.84",
+          "minutes": 0,
+          "seconds": 22,
+          "hundredths": 84
+        },
+        "laps": [],
+        "age": 25,
+        "points": 1421,
+        "poolLength": 50,
+        "location": {
+          "country": "RUS",
+          "city": "KAZAN"
+        },
+        "date": "2015-08-02T00:00:00.000Z",
+        "structure": "CN MARSEILLE"
+      },
+      {
+        "name": "100 Pap.",
+        "raceId": 82,
+        "time": {
+          "display": "00:53.27",
+          "minutes": 0,
+          "seconds": 53,
+          "hundredths": 27
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:24.37",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 37
+            },
+            "lap": {
+              "display": "00:24.37",
+              "minutes": 0,
+              "seconds": 24,
+              "hundredths": 37
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:53.27",
+              "minutes": 0,
+              "seconds": 53,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "00:28.90",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 90
+            },
+            "relay": "00:53.27"
+          }
+        ],
+        "age": 19,
+        "points": 1330,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "MONTPELLIER"
+        },
+        "date": "2009-04-25T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "200 Pap.",
+        "raceId": 83,
+        "time": {
+          "display": "02:04.26",
+          "minutes": 2,
+          "seconds": 4,
+          "hundredths": 26
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:58.22",
+              "minutes": 0,
+              "seconds": 58,
+              "hundredths": 22
+            },
+            "lap": {
+              "display": "00:58.22",
+              "minutes": 0,
+              "seconds": 58,
+              "hundredths": 22
+            },
+            "relay": "00:58.22"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:04.26",
+              "minutes": 2,
+              "seconds": 4,
+              "hundredths": 26
+            },
+            "lap": {
+              "display": "01:06.04",
+              "minutes": 1,
+              "seconds": 6,
+              "hundredths": 4
+            },
+            "relay": "01:06.04"
+          }
+        ],
+        "age": 19,
+        "points": 1250,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "FEURS"
+        },
+        "date": "2009-06-28T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "200 4 N.",
+        "raceId": 91,
+        "time": {
+          "display": "02:06.08",
+          "minutes": 2,
+          "seconds": 6,
+          "hundredths": 8
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:59.63",
+              "minutes": 0,
+              "seconds": 59,
+              "hundredths": 63
+            },
+            "lap": {
+              "display": "00:59.63",
+              "minutes": 0,
+              "seconds": 59,
+              "hundredths": 63
+            },
+            "relay": "00:59.63"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:06.08",
+              "minutes": 2,
+              "seconds": 6,
+              "hundredths": 8
+            },
+            "lap": {
+              "display": "01:06.45",
+              "minutes": 1,
+              "seconds": 6,
+              "hundredths": 45
+            },
+            "relay": "01:06.45"
+          }
+        ],
+        "age": 19,
+        "points": 1266,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "FEURS"
+        },
+        "date": "2009-06-27T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      },
+      {
+        "name": "400 4 N.",
+        "raceId": 92,
+        "time": {
+          "display": "05:09.33",
+          "minutes": 5,
+          "seconds": 9,
+          "hundredths": 33
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:10.83",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 83
+            },
+            "lap": {
+              "display": "01:10.83",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 83
+            },
+            "relay": "01:10.83"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:29.88",
+              "minutes": 2,
+              "seconds": 29,
+              "hundredths": 88
+            },
+            "lap": {
+              "display": "01:19.05",
+              "minutes": 1,
+              "seconds": 19,
+              "hundredths": 5
+            },
+            "relay": "01:19.05"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "04:01.89",
+              "minutes": 4,
+              "seconds": 1,
+              "hundredths": 89
+            },
+            "lap": {
+              "display": "01:32.01",
+              "minutes": 1,
+              "seconds": 32,
+              "hundredths": 1
+            },
+            "relay": "01:32.01"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "05:09.33",
+              "minutes": 5,
+              "seconds": 9,
+              "hundredths": 33
+            },
+            "lap": {
+              "display": "01:07.44",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 44
+            },
+            "relay": "01:07.44"
+          }
+        ],
+        "age": 16,
+        "points": 943,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "FEURS"
+        },
+        "date": "2006-06-24T00:00:00.000Z",
+        "structure": "AMBERIEU NAT BUGEY COTIERE"
+      }
+    ]
+  }
+}

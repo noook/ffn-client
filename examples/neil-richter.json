@@ -1,0 +1,2097 @@
+{
+  "swimmer": {
+    "id": "1979311",
+    "firstname": "Neil",
+    "lastname": "RICHTER",
+    "nat": "FRA",
+    "birthyear": 1999
+  },
+  "races": {
+    "shortCourses": [
+      {
+        "name": "50 NL",
+        "raceId": 51,
+        "time": {
+          "display": "00:24.56",
+          "minutes": 0,
+          "seconds": 24,
+          "hundredths": 56
+        },
+        "laps": [],
+        "age": 19,
+        "points": 1133,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "BOBIGNY"
+        },
+        "date": "2017-11-25T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "100 NL",
+        "raceId": 52,
+        "time": {
+          "display": "00:54.54",
+          "minutes": 0,
+          "seconds": 54,
+          "hundredths": 54
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:26.08",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 8
+            },
+            "lap": {
+              "display": "00:26.08",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 8
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:54.54",
+              "minutes": 0,
+              "seconds": 54,
+              "hundredths": 54
+            },
+            "lap": {
+              "display": "00:28.46",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 46
+            },
+            "relay": "00:54.54"
+          }
+        ],
+        "age": 17,
+        "points": 1135,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "VILLEPINTE"
+        },
+        "date": "2015-11-07T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "200 NL",
+        "raceId": 53,
+        "time": {
+          "display": "02:01.47",
+          "minutes": 2,
+          "seconds": 1,
+          "hundredths": 47
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:27.09",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 9
+            },
+            "lap": {
+              "display": "00:27.09",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 9
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:57.17",
+              "minutes": 0,
+              "seconds": 57,
+              "hundredths": 17
+            },
+            "lap": {
+              "display": "00:30.08",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 8
+            }
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:29.10",
+              "minutes": 1,
+              "seconds": 29,
+              "hundredths": 10
+            },
+            "lap": {
+              "display": "00:31.93",
+              "minutes": 0,
+              "seconds": 31,
+              "hundredths": 93
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:01.47",
+              "minutes": 2,
+              "seconds": 1,
+              "hundredths": 47
+            },
+            "lap": {
+              "display": "00:32.37",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 37
+            },
+            "relay": "02:01.47"
+          }
+        ],
+        "age": 18,
+        "points": 1063,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "VILLEPINTE"
+        },
+        "date": "2016-11-06T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "400 NL",
+        "raceId": 54,
+        "time": {
+          "display": "04:33.47",
+          "minutes": 4,
+          "seconds": 33,
+          "hundredths": 47
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:30.42",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 42
+            },
+            "lap": {
+              "display": "00:30.42",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 42
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:04.34",
+              "minutes": 1,
+              "seconds": 4,
+              "hundredths": 34
+            },
+            "lap": {
+              "display": "00:33.92",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 92
+            },
+            "relay": "01:04.34"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:39.10",
+              "minutes": 1,
+              "seconds": 39,
+              "hundredths": 10
+            },
+            "lap": {
+              "display": "00:34.76",
+              "minutes": 0,
+              "seconds": 34,
+              "hundredths": 76
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:14.50",
+              "minutes": 2,
+              "seconds": 14,
+              "hundredths": 50
+            },
+            "lap": {
+              "display": "00:35.40",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 40
+            },
+            "relay": "01:10.16"
+          },
+          {
+            "distance": 250,
+            "split": {
+              "display": "02:50.26",
+              "minutes": 2,
+              "seconds": 50,
+              "hundredths": 26
+            },
+            "lap": {
+              "display": "00:35.76",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 76
+            }
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:26.07",
+              "minutes": 3,
+              "seconds": 26,
+              "hundredths": 7
+            },
+            "lap": {
+              "display": "00:35.81",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 81
+            },
+            "relay": "01:11.57"
+          },
+          {
+            "distance": 350,
+            "split": {
+              "display": "04:00.35",
+              "minutes": 4,
+              "seconds": 0,
+              "hundredths": 35
+            },
+            "lap": {
+              "display": "00:34.28",
+              "minutes": 0,
+              "seconds": 34,
+              "hundredths": 28
+            }
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:33.47",
+              "minutes": 4,
+              "seconds": 33,
+              "hundredths": 47
+            },
+            "lap": {
+              "display": "00:33.12",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 12
+            },
+            "relay": "01:07.40"
+          }
+        ],
+        "age": 16,
+        "points": 966,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "VILLEPINTE"
+        },
+        "date": "2014-11-22T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "1500 NL",
+        "raceId": 56,
+        "time": {
+          "display": "19:38.51",
+          "minutes": 19,
+          "seconds": 38,
+          "hundredths": 51
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:10.56",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 56
+            },
+            "lap": {
+              "display": "01:10.56",
+              "minutes": 1,
+              "seconds": 10,
+              "hundredths": 56
+            },
+            "relay": "01:10.56"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:27.35",
+              "minutes": 2,
+              "seconds": 27,
+              "hundredths": 35
+            },
+            "lap": {
+              "display": "01:16.79",
+              "minutes": 1,
+              "seconds": 16,
+              "hundredths": 79
+            },
+            "relay": "01:16.79"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:45.57",
+              "minutes": 3,
+              "seconds": 45,
+              "hundredths": 57
+            },
+            "lap": {
+              "display": "01:18.22",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 22
+            },
+            "relay": "01:18.22"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "05:04.10",
+              "minutes": 5,
+              "seconds": 4,
+              "hundredths": 10
+            },
+            "lap": {
+              "display": "01:18.53",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 53
+            },
+            "relay": "01:18.53"
+          },
+          {
+            "distance": 500,
+            "split": {
+              "display": "06:22.65",
+              "minutes": 6,
+              "seconds": 22,
+              "hundredths": 65
+            },
+            "lap": {
+              "display": "01:18.55",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 55
+            },
+            "relay": "01:18.55"
+          },
+          {
+            "distance": 600,
+            "split": {
+              "display": "07:41.30",
+              "minutes": 7,
+              "seconds": 41,
+              "hundredths": 30
+            },
+            "lap": {
+              "display": "01:18.65",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 65
+            },
+            "relay": "01:18.65"
+          },
+          {
+            "distance": 700,
+            "split": {
+              "display": "09:00.19",
+              "minutes": 9,
+              "seconds": 0,
+              "hundredths": 19
+            },
+            "lap": {
+              "display": "01:18.89",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 89
+            },
+            "relay": "01:18.89"
+          },
+          {
+            "distance": 800,
+            "split": {
+              "display": "10:19.93",
+              "minutes": 10,
+              "seconds": 19,
+              "hundredths": 93
+            },
+            "lap": {
+              "display": "01:19.74",
+              "minutes": 1,
+              "seconds": 19,
+              "hundredths": 74
+            },
+            "relay": "01:19.74"
+          },
+          {
+            "distance": 900,
+            "split": {
+              "display": "11:38.55",
+              "minutes": 11,
+              "seconds": 38,
+              "hundredths": 55
+            },
+            "lap": {
+              "display": "01:18.62",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 62
+            },
+            "relay": "01:18.62"
+          },
+          {
+            "distance": 1000,
+            "split": {
+              "display": "12:57.10",
+              "minutes": 12,
+              "seconds": 57,
+              "hundredths": 10
+            },
+            "lap": {
+              "display": "01:18.55",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 55
+            },
+            "relay": "01:18.55"
+          },
+          {
+            "distance": 1100,
+            "split": {
+              "display": "14:17.79",
+              "minutes": 14,
+              "seconds": 17,
+              "hundredths": 79
+            },
+            "lap": {
+              "display": "01:20.69",
+              "minutes": 1,
+              "seconds": 20,
+              "hundredths": 69
+            },
+            "relay": "01:20.69"
+          },
+          {
+            "distance": 1200,
+            "split": {
+              "display": "15:37.30",
+              "minutes": 15,
+              "seconds": 37,
+              "hundredths": 30
+            },
+            "lap": {
+              "display": "01:19.51",
+              "minutes": 1,
+              "seconds": 19,
+              "hundredths": 51
+            },
+            "relay": "01:19.51"
+          },
+          {
+            "distance": 1300,
+            "split": {
+              "display": "16:58.60",
+              "minutes": 16,
+              "seconds": 58,
+              "hundredths": 60
+            },
+            "lap": {
+              "display": "01:21.30",
+              "minutes": 1,
+              "seconds": 21,
+              "hundredths": 30
+            },
+            "relay": "01:21.30"
+          },
+          {
+            "distance": 1400,
+            "split": {
+              "display": "18:58.62",
+              "minutes": 18,
+              "seconds": 58,
+              "hundredths": 62
+            },
+            "lap": {
+              "display": "02:00.02",
+              "minutes": 2,
+              "seconds": 0,
+              "hundredths": 2
+            },
+            "relay": "02:00.02"
+          },
+          {
+            "distance": 1500,
+            "split": {
+              "display": "19:38.51",
+              "minutes": 19,
+              "seconds": 38,
+              "hundredths": 51
+            },
+            "lap": {
+              "display": "00:39.89",
+              "minutes": 0,
+              "seconds": 39,
+              "hundredths": 89
+            },
+            "relay": "00:39.89"
+          }
+        ],
+        "age": 16,
+        "points": 792,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "LE RAINCY"
+        },
+        "date": "2014-11-15T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "50 Dos",
+        "raceId": 61,
+        "time": {
+          "display": "00:27.31",
+          "minutes": 0,
+          "seconds": 27,
+          "hundredths": 31
+        },
+        "laps": [],
+        "age": 16,
+        "points": 1260,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2014-12-21T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "100 Dos",
+        "raceId": 62,
+        "time": {
+          "display": "00:59.16",
+          "minutes": 0,
+          "seconds": 59,
+          "hundredths": 16
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:28.68",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 68
+            },
+            "lap": {
+              "display": "00:28.68",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 68
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:59.16",
+              "minutes": 0,
+              "seconds": 59,
+              "hundredths": 16
+            },
+            "lap": {
+              "display": "00:30.48",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 48
+            },
+            "relay": "00:59.16"
+          }
+        ],
+        "age": 16,
+        "points": 1215,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2014-12-20T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "200 Dos",
+        "raceId": 63,
+        "time": {
+          "display": "02:10.27",
+          "minutes": 2,
+          "seconds": 10,
+          "hundredths": 27
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:29.97",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 97
+            },
+            "lap": {
+              "display": "00:29.97",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 97
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:03.05",
+              "minutes": 1,
+              "seconds": 3,
+              "hundredths": 5
+            },
+            "lap": {
+              "display": "00:33.08",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 8
+            },
+            "relay": "01:03.05"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:36.72",
+              "minutes": 1,
+              "seconds": 36,
+              "hundredths": 72
+            },
+            "lap": {
+              "display": "00:33.67",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 67
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:10.27",
+              "minutes": 2,
+              "seconds": 10,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "00:33.55",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 55
+            },
+            "relay": "01:07.22"
+          }
+        ],
+        "age": 16,
+        "points": 1181,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2014-12-19T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "50 Bra.",
+        "raceId": 71,
+        "time": {
+          "display": "00:31.13",
+          "minutes": 0,
+          "seconds": 31,
+          "hundredths": 13
+        },
+        "laps": [],
+        "age": 19,
+        "points": 1086,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "BOBIGNY"
+        },
+        "date": "2017-11-26T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "100 Bra.",
+        "raceId": 72,
+        "time": {
+          "display": "01:09.22",
+          "minutes": 1,
+          "seconds": 9,
+          "hundredths": 22
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:32.59",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 59
+            },
+            "lap": {
+              "display": "00:32.59",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 59
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:09.22",
+              "minutes": 1,
+              "seconds": 9,
+              "hundredths": 22
+            },
+            "lap": {
+              "display": "00:36.63",
+              "minutes": 0,
+              "seconds": 36,
+              "hundredths": 63
+            },
+            "relay": "01:09.22"
+          }
+        ],
+        "age": 19,
+        "points": 1076,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "VILLEPINTE"
+        },
+        "date": "2017-11-12T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "50 Pap.",
+        "raceId": 81,
+        "time": {
+          "display": "00:27.46",
+          "minutes": 0,
+          "seconds": 27,
+          "hundredths": 46
+        },
+        "laps": [],
+        "age": 21,
+        "points": 1056,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2019-12-15T00:00:00.000Z",
+        "structure": "MOUETTES DE PARIS"
+      },
+      {
+        "name": "100 Pap.",
+        "raceId": 82,
+        "time": {
+          "display": "01:04.06",
+          "minutes": 1,
+          "seconds": 4,
+          "hundredths": 6
+        },
+        "laps": [],
+        "age": 18,
+        "points": 984,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "VAIRES-SUR-MARNE"
+        },
+        "date": "2017-05-25T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "100 4 N.",
+        "raceId": 90,
+        "time": {
+          "display": "01:01.83",
+          "minutes": 1,
+          "seconds": 1,
+          "hundredths": 83
+        },
+        "laps": [],
+        "age": 21,
+        "points": 1088,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2019-12-14T00:00:00.000Z",
+        "structure": "MOUETTES DE PARIS"
+      },
+      {
+        "name": "200 4 N.",
+        "raceId": 91,
+        "time": {
+          "display": "02:14.23",
+          "minutes": 2,
+          "seconds": 14,
+          "hundredths": 23
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:28.33",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 33
+            },
+            "lap": {
+              "display": "00:28.33",
+              "minutes": 0,
+              "seconds": 28,
+              "hundredths": 33
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:01.68",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 68
+            },
+            "lap": {
+              "display": "00:33.35",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 35
+            },
+            "relay": "01:01.68"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:42.01",
+              "minutes": 1,
+              "seconds": 42,
+              "hundredths": 1
+            },
+            "lap": {
+              "display": "00:40.33",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 33
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:14.23",
+              "minutes": 2,
+              "seconds": 14,
+              "hundredths": 23
+            },
+            "lap": {
+              "display": "00:32.22",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 22
+            },
+            "relay": "01:12.55"
+          }
+        ],
+        "age": 17,
+        "points": 1137,
+        "poolLength": 25,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2015-12-19T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      }
+    ],
+    "longCourses": [
+      {
+        "name": "50 NL",
+        "raceId": 51,
+        "time": {
+          "display": "00:25.27",
+          "minutes": 0,
+          "seconds": 25,
+          "hundredths": 27
+        },
+        "laps": [],
+        "age": 18,
+        "points": 1084,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2016-12-16T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "100 NL",
+        "raceId": 52,
+        "time": {
+          "display": "00:57.08",
+          "minutes": 0,
+          "seconds": 57,
+          "hundredths": 8
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:26.79",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 79
+            },
+            "lap": {
+              "display": "00:26.79",
+              "minutes": 0,
+              "seconds": 26,
+              "hundredths": 79
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "00:57.08",
+              "minutes": 0,
+              "seconds": 57,
+              "hundredths": 8
+            },
+            "lap": {
+              "display": "00:30.29",
+              "minutes": 0,
+              "seconds": 30,
+              "hundredths": 29
+            },
+            "relay": "00:57.08"
+          }
+        ],
+        "age": 16,
+        "points": 1050,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2015-03-15T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "200 NL",
+        "raceId": 53,
+        "time": {
+          "display": "02:10.34",
+          "minutes": 2,
+          "seconds": 10,
+          "hundredths": 34
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:02.65",
+              "minutes": 1,
+              "seconds": 2,
+              "hundredths": 65
+            },
+            "lap": {
+              "display": "01:02.65",
+              "minutes": 1,
+              "seconds": 2,
+              "hundredths": 65
+            },
+            "relay": "01:02.65"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:10.34",
+              "minutes": 2,
+              "seconds": 10,
+              "hundredths": 34
+            },
+            "lap": {
+              "display": "01:07.69",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 69
+            },
+            "relay": "01:07.69"
+          }
+        ],
+        "age": 16,
+        "points": 952,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2015-03-20T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "400 NL",
+        "raceId": 54,
+        "time": {
+          "display": "04:45.16",
+          "minutes": 4,
+          "seconds": 45,
+          "hundredths": 16
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:05.29",
+              "minutes": 1,
+              "seconds": 5,
+              "hundredths": 29
+            },
+            "lap": {
+              "display": "01:05.29",
+              "minutes": 1,
+              "seconds": 5,
+              "hundredths": 29
+            },
+            "relay": "01:05.29"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:16.86",
+              "minutes": 2,
+              "seconds": 16,
+              "hundredths": 86
+            },
+            "lap": {
+              "display": "01:11.57",
+              "minutes": 1,
+              "seconds": 11,
+              "hundredths": 57
+            },
+            "relay": "01:11.57"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:31.32",
+              "minutes": 3,
+              "seconds": 31,
+              "hundredths": 32
+            },
+            "lap": {
+              "display": "01:14.46",
+              "minutes": 1,
+              "seconds": 14,
+              "hundredths": 46
+            },
+            "relay": "01:14.46"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:45.16",
+              "minutes": 4,
+              "seconds": 45,
+              "hundredths": 16
+            },
+            "lap": {
+              "display": "01:13.84",
+              "minutes": 1,
+              "seconds": 13,
+              "hundredths": 84
+            },
+            "relay": "01:13.84"
+          }
+        ],
+        "age": 18,
+        "points": 847,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "MONTREUIL"
+        },
+        "date": "2017-05-06T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "1500 NL",
+        "raceId": 56,
+        "time": {
+          "display": "19:45.89",
+          "minutes": 19,
+          "seconds": 45,
+          "hundredths": 89
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:31.84",
+              "minutes": 0,
+              "seconds": 31,
+              "hundredths": 84
+            },
+            "lap": {
+              "display": "00:31.84",
+              "minutes": 0,
+              "seconds": 31,
+              "hundredths": 84
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:07.57",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 57
+            },
+            "lap": {
+              "display": "00:35.73",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 73
+            },
+            "relay": "01:07.57"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:44.29",
+              "minutes": 1,
+              "seconds": 44,
+              "hundredths": 29
+            },
+            "lap": {
+              "display": "00:36.72",
+              "minutes": 0,
+              "seconds": 36,
+              "hundredths": 72
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:22.22",
+              "minutes": 2,
+              "seconds": 22,
+              "hundredths": 22
+            },
+            "lap": {
+              "display": "00:37.93",
+              "minutes": 0,
+              "seconds": 37,
+              "hundredths": 93
+            },
+            "relay": "01:14.65"
+          },
+          {
+            "distance": 250,
+            "split": {
+              "display": "03:00.61",
+              "minutes": 3,
+              "seconds": 0,
+              "hundredths": 61
+            },
+            "lap": {
+              "display": "00:38.39",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 39
+            }
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:39.27",
+              "minutes": 3,
+              "seconds": 39,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "00:38.66",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 66
+            },
+            "relay": "01:17.05"
+          },
+          {
+            "distance": 350,
+            "split": {
+              "display": "04:17.69",
+              "minutes": 4,
+              "seconds": 17,
+              "hundredths": 69
+            },
+            "lap": {
+              "display": "00:38.42",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 42
+            }
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "04:56.56",
+              "minutes": 4,
+              "seconds": 56,
+              "hundredths": 56
+            },
+            "lap": {
+              "display": "00:38.87",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 87
+            },
+            "relay": "01:17.29"
+          },
+          {
+            "distance": 450,
+            "split": {
+              "display": "05:35.62",
+              "minutes": 5,
+              "seconds": 35,
+              "hundredths": 62
+            },
+            "lap": {
+              "display": "00:39.06",
+              "minutes": 0,
+              "seconds": 39,
+              "hundredths": 6
+            }
+          },
+          {
+            "distance": 500,
+            "split": {
+              "display": "06:15.35",
+              "minutes": 6,
+              "seconds": 15,
+              "hundredths": 35
+            },
+            "lap": {
+              "display": "00:39.73",
+              "minutes": 0,
+              "seconds": 39,
+              "hundredths": 73
+            },
+            "relay": "01:18.79"
+          },
+          {
+            "distance": 550,
+            "split": {
+              "display": "06:55.44",
+              "minutes": 6,
+              "seconds": 55,
+              "hundredths": 44
+            },
+            "lap": {
+              "display": "00:40.09",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 9
+            }
+          },
+          {
+            "distance": 600,
+            "split": {
+              "display": "07:35.44",
+              "minutes": 7,
+              "seconds": 35,
+              "hundredths": 44
+            },
+            "lap": {
+              "display": "00:40.00",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 0
+            },
+            "relay": "01:20.09"
+          },
+          {
+            "distance": 650,
+            "split": {
+              "display": "08:15.94",
+              "minutes": 8,
+              "seconds": 15,
+              "hundredths": 94
+            },
+            "lap": {
+              "display": "00:40.50",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 50
+            }
+          },
+          {
+            "distance": 700,
+            "split": {
+              "display": "08:55.81",
+              "minutes": 8,
+              "seconds": 55,
+              "hundredths": 81
+            },
+            "lap": {
+              "display": "00:39.87",
+              "minutes": 0,
+              "seconds": 39,
+              "hundredths": 87
+            },
+            "relay": "01:20.37"
+          },
+          {
+            "distance": 750,
+            "split": {
+              "display": "09:35.79",
+              "minutes": 9,
+              "seconds": 35,
+              "hundredths": 79
+            },
+            "lap": {
+              "display": "00:39.98",
+              "minutes": 0,
+              "seconds": 39,
+              "hundredths": 98
+            }
+          },
+          {
+            "distance": 800,
+            "split": {
+              "display": "10:16.36",
+              "minutes": 10,
+              "seconds": 16,
+              "hundredths": 36
+            },
+            "lap": {
+              "display": "00:40.57",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 57
+            },
+            "relay": "01:20.55"
+          },
+          {
+            "distance": 850,
+            "split": {
+              "display": "10:56.96",
+              "minutes": 10,
+              "seconds": 56,
+              "hundredths": 96
+            },
+            "lap": {
+              "display": "00:40.60",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 60
+            }
+          },
+          {
+            "distance": 900,
+            "split": {
+              "display": "11:38.87",
+              "minutes": 11,
+              "seconds": 38,
+              "hundredths": 87
+            },
+            "lap": {
+              "display": "00:41.91",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 91
+            },
+            "relay": "01:22.51"
+          },
+          {
+            "distance": 950,
+            "split": {
+              "display": "12:19.95",
+              "minutes": 12,
+              "seconds": 19,
+              "hundredths": 95
+            },
+            "lap": {
+              "display": "00:41.08",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 8
+            }
+          },
+          {
+            "distance": 1000,
+            "split": {
+              "display": "13:01.54",
+              "minutes": 13,
+              "seconds": 1,
+              "hundredths": 54
+            },
+            "lap": {
+              "display": "00:41.59",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 59
+            },
+            "relay": "01:22.67"
+          },
+          {
+            "distance": 1050,
+            "split": {
+              "display": "13:42.54",
+              "minutes": 13,
+              "seconds": 42,
+              "hundredths": 54
+            },
+            "lap": {
+              "display": "00:41.00",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 0
+            }
+          },
+          {
+            "distance": 1100,
+            "split": {
+              "display": "14:23.60",
+              "minutes": 14,
+              "seconds": 23,
+              "hundredths": 60
+            },
+            "lap": {
+              "display": "00:41.06",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 6
+            },
+            "relay": "01:22.06"
+          },
+          {
+            "distance": 1150,
+            "split": {
+              "display": "15:04.56",
+              "minutes": 15,
+              "seconds": 4,
+              "hundredths": 56
+            },
+            "lap": {
+              "display": "00:40.96",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 96
+            }
+          },
+          {
+            "distance": 1200,
+            "split": {
+              "display": "15:46.09",
+              "minutes": 15,
+              "seconds": 46,
+              "hundredths": 9
+            },
+            "lap": {
+              "display": "00:41.53",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 53
+            },
+            "relay": "01:22.49"
+          },
+          {
+            "distance": 1250,
+            "split": {
+              "display": "16:27.19",
+              "minutes": 16,
+              "seconds": 27,
+              "hundredths": 19
+            },
+            "lap": {
+              "display": "00:41.10",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 10
+            }
+          },
+          {
+            "distance": 1300,
+            "split": {
+              "display": "17:09.44",
+              "minutes": 17,
+              "seconds": 9,
+              "hundredths": 44
+            },
+            "lap": {
+              "display": "00:42.25",
+              "minutes": 0,
+              "seconds": 42,
+              "hundredths": 25
+            },
+            "relay": "01:23.35"
+          },
+          {
+            "distance": 1350,
+            "split": {
+              "display": "17:50.04",
+              "minutes": 17,
+              "seconds": 50,
+              "hundredths": 4
+            },
+            "lap": {
+              "display": "00:40.60",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 60
+            }
+          },
+          {
+            "distance": 1400,
+            "split": {
+              "display": "18:30.08",
+              "minutes": 18,
+              "seconds": 30,
+              "hundredths": 8
+            },
+            "lap": {
+              "display": "00:40.04",
+              "minutes": 0,
+              "seconds": 40,
+              "hundredths": 4
+            },
+            "relay": "01:20.64"
+          },
+          {
+            "distance": 1450,
+            "split": {
+              "display": "19:08.27",
+              "minutes": 19,
+              "seconds": 8,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "00:38.19",
+              "minutes": 0,
+              "seconds": 38,
+              "hundredths": 19
+            }
+          },
+          {
+            "distance": 1500,
+            "split": {
+              "display": "19:45.89",
+              "minutes": 19,
+              "seconds": 45,
+              "hundredths": 89
+            },
+            "lap": {
+              "display": "00:37.62",
+              "minutes": 0,
+              "seconds": 37,
+              "hundredths": 62
+            },
+            "relay": "01:15.81"
+          }
+        ],
+        "age": 17,
+        "points": 779,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2016-06-10T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "50 Dos",
+        "raceId": 61,
+        "time": {
+          "display": "00:28.49",
+          "minutes": 0,
+          "seconds": 28,
+          "hundredths": 49
+        },
+        "laps": [],
+        "age": 17,
+        "points": 1185,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "AMIENS"
+        },
+        "date": "2016-07-31T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "100 Dos",
+        "raceId": 62,
+        "time": {
+          "display": "01:02.02",
+          "minutes": 1,
+          "seconds": 2,
+          "hundredths": 2
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:29.23",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 23
+            },
+            "lap": {
+              "display": "00:29.23",
+              "minutes": 0,
+              "seconds": 29,
+              "hundredths": 23
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:02.02",
+              "minutes": 1,
+              "seconds": 2,
+              "hundredths": 2
+            },
+            "lap": {
+              "display": "00:32.79",
+              "minutes": 0,
+              "seconds": 32,
+              "hundredths": 79
+            },
+            "relay": "01:02.02"
+          }
+        ],
+        "age": 18,
+        "points": 1050,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2017-03-24T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "200 Dos",
+        "raceId": 63,
+        "time": {
+          "display": "02:19.71",
+          "minutes": 2,
+          "seconds": 19,
+          "hundredths": 71
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:07.27",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "01:07.27",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 27
+            },
+            "relay": "01:07.27"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:19.71",
+              "minutes": 2,
+              "seconds": 19,
+              "hundredths": 71
+            },
+            "lap": {
+              "display": "01:12.44",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 44
+            },
+            "relay": "01:12.44"
+          }
+        ],
+        "age": 15,
+        "points": 1044,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "MULHOUSE"
+        },
+        "date": "2014-07-21T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "50 Bra.",
+        "raceId": 71,
+        "time": {
+          "display": "00:31.74",
+          "minutes": 0,
+          "seconds": 31,
+          "hundredths": 74
+        },
+        "laps": [],
+        "age": 18,
+        "points": 1055,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2017-03-25T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "100 Bra.",
+        "raceId": 72,
+        "time": {
+          "display": "01:12.77",
+          "minutes": 1,
+          "seconds": 12,
+          "hundredths": 77
+        },
+        "laps": [],
+        "age": 18,
+        "points": 987,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2016-12-18T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "200 Bra.",
+        "raceId": 73,
+        "time": {
+          "display": "02:47.72",
+          "minutes": 2,
+          "seconds": 47,
+          "hundredths": 72
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:35.42",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 42
+            },
+            "lap": {
+              "display": "00:35.42",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 42
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:17.41",
+              "minutes": 1,
+              "seconds": 17,
+              "hundredths": 41
+            },
+            "lap": {
+              "display": "00:41.99",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 99
+            },
+            "relay": "01:17.41"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "02:01.58",
+              "minutes": 2,
+              "seconds": 1,
+              "hundredths": 58
+            },
+            "lap": {
+              "display": "00:44.17",
+              "minutes": 0,
+              "seconds": 44,
+              "hundredths": 17
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:47.72",
+              "minutes": 2,
+              "seconds": 47,
+              "hundredths": 72
+            },
+            "lap": {
+              "display": "00:46.14",
+              "minutes": 0,
+              "seconds": 46,
+              "hundredths": 14
+            },
+            "relay": "01:30.31"
+          }
+        ],
+        "age": 18,
+        "points": 833,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "COURBEVOIE"
+        },
+        "date": "2017-02-05T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "50 Pap.",
+        "raceId": 81,
+        "time": {
+          "display": "00:27.60",
+          "minutes": 0,
+          "seconds": 27,
+          "hundredths": 60
+        },
+        "laps": [],
+        "age": 18,
+        "points": 1047,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2017-03-25T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "100 Pap.",
+        "raceId": 82,
+        "time": {
+          "display": "01:07.73",
+          "minutes": 1,
+          "seconds": 7,
+          "hundredths": 73
+        },
+        "laps": [],
+        "age": 16,
+        "points": 910,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2015-06-13T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      },
+      {
+        "name": "200 4 N.",
+        "raceId": 91,
+        "time": {
+          "display": "02:18.23",
+          "minutes": 2,
+          "seconds": 18,
+          "hundredths": 23
+        },
+        "laps": [
+          {
+            "distance": 50,
+            "split": {
+              "display": "00:27.74",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 74
+            },
+            "lap": {
+              "display": "00:27.74",
+              "minutes": 0,
+              "seconds": 27,
+              "hundredths": 74
+            }
+          },
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:01.49",
+              "minutes": 1,
+              "seconds": 1,
+              "hundredths": 49
+            },
+            "lap": {
+              "display": "00:33.75",
+              "minutes": 0,
+              "seconds": 33,
+              "hundredths": 75
+            },
+            "relay": "01:01.49"
+          },
+          {
+            "distance": 150,
+            "split": {
+              "display": "01:42.91",
+              "minutes": 1,
+              "seconds": 42,
+              "hundredths": 91
+            },
+            "lap": {
+              "display": "00:41.42",
+              "minutes": 0,
+              "seconds": 41,
+              "hundredths": 42
+            }
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:18.23",
+              "minutes": 2,
+              "seconds": 18,
+              "hundredths": 23
+            },
+            "lap": {
+              "display": "00:35.32",
+              "minutes": 0,
+              "seconds": 35,
+              "hundredths": 32
+            },
+            "relay": "01:16.74"
+          }
+        ],
+        "age": 18,
+        "points": 1015,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "SARCELLES"
+        },
+        "date": "2017-03-24T00:00:00.000Z",
+        "structure": "US JEUNESSE MITRY-MORY"
+      },
+      {
+        "name": "400 4 N.",
+        "raceId": 92,
+        "time": {
+          "display": "05:10.27",
+          "minutes": 5,
+          "seconds": 10,
+          "hundredths": 27
+        },
+        "laps": [
+          {
+            "distance": 100,
+            "split": {
+              "display": "01:07.64",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 64
+            },
+            "lap": {
+              "display": "01:07.64",
+              "minutes": 1,
+              "seconds": 7,
+              "hundredths": 64
+            },
+            "relay": "01:07.64"
+          },
+          {
+            "distance": 200,
+            "split": {
+              "display": "02:26.57",
+              "minutes": 2,
+              "seconds": 26,
+              "hundredths": 57
+            },
+            "lap": {
+              "display": "01:18.93",
+              "minutes": 1,
+              "seconds": 18,
+              "hundredths": 93
+            },
+            "relay": "01:18.93"
+          },
+          {
+            "distance": 300,
+            "split": {
+              "display": "03:57.50",
+              "minutes": 3,
+              "seconds": 57,
+              "hundredths": 50
+            },
+            "lap": {
+              "display": "01:30.93",
+              "minutes": 1,
+              "seconds": 30,
+              "hundredths": 93
+            },
+            "relay": "01:30.93"
+          },
+          {
+            "distance": 400,
+            "split": {
+              "display": "05:10.27",
+              "minutes": 5,
+              "seconds": 10,
+              "hundredths": 27
+            },
+            "lap": {
+              "display": "01:12.77",
+              "minutes": 1,
+              "seconds": 12,
+              "hundredths": 77
+            },
+            "relay": "01:12.77"
+          }
+        ],
+        "age": 16,
+        "points": 936,
+        "poolLength": 50,
+        "location": {
+          "country": "FRA",
+          "city": "PARIS"
+        },
+        "date": "2015-06-14T00:00:00.000Z",
+        "structure": "AC VILLEPINTE"
+      }
+    ]
+  }
+}
