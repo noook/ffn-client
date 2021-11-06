@@ -1,6 +1,6 @@
 {
   "name": "ffn-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wrapper for the french swimming federation to query the website through an API",
   "author": {
     "email": "me@neilrichter.com",
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/noook/ffn-client.git"
   },
-  "main": "./lib/cjs/index.js",
-  "module": "./lib/esm/index.js",
+  "main": "./lib/cjs/main.js",
+  "module": "./lib/esm/main.js",
   "files": [
     "lib/"
   ],
