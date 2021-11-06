@@ -1,2 +1,2 @@
-export * from './IndividualRankings';
+export * from './SwimmerProfile';
 export * from './constants';

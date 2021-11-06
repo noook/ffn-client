@@ -1,31 +1,74 @@
-import { Request } from "./Request";
+import api from './api';
+import {JSDOM} from "jsdom";
+import {parseName, parseTableRowTimeEntry} from "./parsers";
+import {RaceEntry, Sex} from "./types";
 
-export class SwimmerProfile extends Request {
-  readonly timerange = 'sai';
-  readonly go = 'profile';
-  readonly idact = 'nat';
-  
-  static endpoint: string = 'nat_recherche.php';
+export class SwimmerProfile {
+  private readonly endpoint = '/nat_recherche.php';
 
-  constructor() {
-    super(SwimmerProfile.endpoint);
+  private readonly id: number | string;
+
+  constructor(id: number | string) {
+    this.id = id;
   }
 
-  static getUrl(id: string | number): URL {
-    const url = new URL('https://ffn.extranat.fr');
-    url.pathname = `webffn/${SwimmerProfile.endpoint}`;
-    url.searchParams.append('idrch_id', id.toString());
-
-    return url;
+  get href(): string {
+    const url = new URL(api.defaults.baseURL + this.endpoint);
+    url.searchParams.append('idrch_id', this.id.toString());
+    return url.href;
   }
 
-  async execute() {
-    const { data } = await this.client.get(this.endpoint, {
+  private parseTimes(dom: JSDOM): { shortCourses: RaceEntry[]; longCourses: RaceEntry[] } {
+    const document = dom.window.document;
+    const sex: Sex = document.querySelector('.titre12nat > i')!.classList.contains('fa-venus') ? 'f' : 'm';
+    const headers = document.querySelectorAll<HTMLTableRowElement>('.tetiere');
+    const shortCourseHeader = Object.values(headers).find(element => element.textContent!.includes('25'))!;
+    const shortCourseHeaderIndex = (shortCourseHeader.parentElement as HTMLTableRowElement).rowIndex;
+    const longCourseHeader = Object.values(headers).find(element => element.textContent!.includes('50'))!;
+    const longCourseHeaderIndex = longCourseHeader ? (longCourseHeader.parentElement as HTMLTableRowElement).rowIndex : undefined;
+
+    const shortCourses = Object.values(shortCourseHeader.closest('tbody')!.children)
+      .slice(shortCourseHeaderIndex, longCourseHeaderIndex)
+      .filter(el => el.matches('[onmouseover]')) as HTMLTableRowElement[];
+
+    const longCourses = longCourseHeader
+      ?  Object.values(shortCourseHeader.closest('tbody')!.children)
+            .slice(longCourseHeaderIndex)
+            .filter(el => el.matches('[onmouseover]')) as HTMLTableRowElement[]
+      : [];
+
+    return {
+      shortCourses: shortCourses.map(el => parseTableRowTimeEntry(el, 25 , sex)),
+      longCourses: longCourses.map(el => parseTableRowTimeEntry(el, 50 , sex)),
+    }
+  }
+
+  async fetch() {
+    const { data } = await api.get(this.endpoint, {
       params: {
-        ...this.getBaseOptions(),
+        idrch_id: this.id,
       },
     });
 
-    return data;
+    const dom = new JSDOM(data);
+    const document = dom.window.document;
+
+    const title = document.querySelector('#mainResCpt .titre12nat')!.childNodes.item(0).textContent!.trim();
+    const birthyear = +title.match(/\((?<birthyear>\d+)\)/)!.groups!.birthyear;
+    const name = parseName(title.replace(/\s\(\d+.+/, ''));
+    const nat = document.querySelector('#mainResCpt .titre12nat')!.childNodes.item(2).textContent!.trim();
+    const swimmer = {
+      id: this.id.toString(),
+      ...name,
+      nat,
+      birthyear,
+    };
+
+    const races = this.parseTimes(dom);
+
+    return {
+      swimmer,
+      races,
+    };
   }
 }

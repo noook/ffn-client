@@ -1,3 +1,5 @@
+import {RaceMap} from "../types";
+
 export enum Race {
   W_FREE_50 = 1,
   W_FREE_100 = 2,
@@ -36,3 +38,45 @@ export enum Race {
   M_MEDLEY_200 = 91,
   M_MEDLEY_400 = 92,
 }
+
+export const menRaceMap: RaceMap = {
+  '50 NL': Race.M_FREE_50,
+  '100 NL': Race.M_FREE_100,
+  '200 NL': Race.M_FREE_200,
+  '400 NL': Race.M_FREE_400,
+  '800 NL': Race.M_FREE_800,
+  '1500 NL': Race.M_FREE_1500,
+  '50 Dos': Race.M_BACK_50,
+  '100 Dos': Race.M_BACK_100,
+  '200 Dos': Race.M_BACK_200,
+  '50 Bra.': Race.M_BREAST_50,
+  '100 Bra.': Race.M_BREAST_100,
+  '200 Bra.': Race.M_BREAST_200,
+  '50 Pap.': Race.M_BUTTERFLY_50,
+  '100 Pap.': Race.M_BUTTERFLY_100,
+  '200 Pap.': Race.M_BUTTERFLY_200,
+  '100 4 N.': Race.M_MEDLEY_100,
+  '200 4 N.': Race.M_MEDLEY_200,
+  '400 4 N.': Race.M_MEDLEY_400,
+};
+
+export const womenRaceMap: RaceMap = {
+  '50 NL': Race.W_FREE_50,
+  '100 NL': Race.W_FREE_100,
+  '200 NL': Race.W_FREE_200,
+  '400 NL': Race.W_FREE_400,
+  '800 NL': Race.W_FREE_800,
+  '1500 NL': Race.W_FREE_1500,
+  '50 Dos': Race.W_BACK_50,
+  '100 Dos': Race.W_BACK_100,
+  '200 Dos': Race.W_BACK_200,
+  '50 Bra.': Race.W_BREAST_50,
+  '100 Bra.': Race.W_BREAST_100,
+  '200 Bra.': Race.W_BREAST_200,
+  '50 Pap.': Race.W_BUTTERFLY_50,
+  '100 Pap.': Race.W_BUTTERFLY_100,
+  '200 Pap.': Race.W_BUTTERFLY_200,
+  '100 4 N.': Race.W_MEDLEY_100,
+  '200 4 N.': Race.W_MEDLEY_200,
+  '400 4 N.': Race.W_MEDLEY_400,
+};
